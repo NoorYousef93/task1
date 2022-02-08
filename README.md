@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# task1
+# my-notes
+# my name is Noor Yousef
+## I am 28 years old 
+### I live in Zarqaa
+## I  have studied communication engineering in BAU
+### my hoppies are
+|hope | *daily do that*|
+|------|------------|
+|running | half an houre|
+|surfing internet| 2 houres|
 
-You can use the [editor on GitHub](https://github.com/NoorYousef93/task1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NoorYousef93/task1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***A single purpose of all software: To help people.***
+**some of key points that every developer must master.**
+1. The Purpose of Software 
+2. Your design should be easy for you and helpful for others.
+3. misunderstanding leads to complexity 
+4. Simplicity and complexity are the two main factors that affect code maintenance
+5. solving problems and taking a decision.
+6. Don’t predict to future. Be only as generic as you know you need to be right now.
+7. Code should be designed based on what you know now, not on what you think will happen in the future. 
+ [markdown cheatsheet](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+ # noor 
